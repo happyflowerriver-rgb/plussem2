@@ -1,0 +1,6 @@
+{
+  "name": "두 자리 수 덧셈 마스터",
+  "description": "두 자리 수 더하기 두 자리 수 덧셈 연습 웹앱. 연습하기, 60초 도전, 10문제 승부, 오답노트, 난이도 조절, 학습 보고서 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
